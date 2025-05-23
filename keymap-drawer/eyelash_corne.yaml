@@ -35,14 +35,14 @@ layers:
   - C
   - V
   - B
-  - MUTE
+  - $$mdi:volume-off$$
   - $$mdi:arrow-down-bold$$
   - N
   - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - $$mdi:backspace-reverse-outline$$
+  - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-command$$
   - NUMBER
